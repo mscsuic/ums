@@ -1,0 +1,249 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>UMS @ UIC</title>
+<link rel="stylesheet" type="text/css" href="/ums/css/ums.min.css">
+<link rel="stylesheet" type="text/css" href="/ums/css/beautons.min.css">
+<link rel="shortcut icon" href="/ums/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/ums/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="/ums/js/pngfix.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<div class="title">
+<img src="images/umslogo.png" alt="UMS" class="logo">
+<h1 class="noskip">Undergraduate Mathematics Symposium<br><span class="subhead">Saturday, October 24, 2015<br>University of Illinois at Chicago</span></h1>
+Organized by Alex Austin, David Dumas, Steven Hurder, and Kevin Tucker
+</div>
+
+<div class="clear"></div>
+
+<div id="archive" class="archived-warning">
+This page is about the <b>2015</b> symposium.<p>
+For the latest symposium information see the <a href="/ums/">UMS home page</a>.
+</div>
+
+<div id="about">
+<h3>About the symposium</h3>
+The Undergraduate Mathematics Symposium at UIC is an annual one-day
+  meeting focusing on undergraduate mathematical research and
+  education.  The meeting features invited lectures by mathematical
+  researchers, as well as contributed lectures and posters by undergraduates on their own research projects. 
+<p>
+The next UMS will be held at UIC on <b>Saturday, October 24, 2015</b>.
+<p>
+<span style="margin-left:1em; margin-top:1em;"><a href="poster/umsposter2015.pdf" class="img"><img src="poster/umsposter2015-thumb.png" alt="UMS 2015 Poster (PDF)"></a></span>
+<p>
+<a href="poster/umsposter2015.pdf">Download the symposium poster</a>
+  <p>
+<a
+  href="https://docs.google.com/forms/d/1YWsrtXV-2BDSBphvFbPx52p4li4my2zbbUkQbxOCfqE/viewform?usp=send_form">Click
+  here to register to attend / apply to present</a>
+</div>
+
+<div id="speakers">
+<h3>Plenary lectures</h3>
+<ul class="wide">
+<li>
+<b><a href="https://math.temple.edu/~notlaw/">Chelsea Walton</a>
+  (Temple University) </b><br><span class="bigtitle">Hamilton's
+  quaternions</span>
+
+<div class="abstract">
+<b>Abstract:</b>
+In this talk I will discuss the last great achievement of Sir William Rowan Hamilton- the discovery of the quaternion number system. This discovery was very controversial for its time and nearly drove Hamilton mad! The talk will be full of drama, intrigue, and wonderful mathematics. Some familiarity with the complex number system would help, but is not needed.
+</div>
+
+<li>
+<b><a href="http://math.okstate.edu/people/segerman/">Henry
+Segerman</a> (Oklahoma State University) </b><br> <span class="bigtitle">How to make sculptures of 4-dimensional things</span>
+
+<div class="abstract">
+<b>Abstract:</b>
+Our brains have evolved in a three-dimensional environment, and so we are very good at visualising two- and three-dimensional objects. But what about four-dimensional objects? The best we can really do is to look at three-dimensional "shadows". Just as a shadow of a three-dimensional object squishes it into the two-dimensional plane, we can squish a four-dimensional shape into three-dimensional space, where we can then make a sculpture of it. If the four-dimensional object isn't too complicated and we choose a good way to squish it, then we can get a very good sense of what it is like. We will explore the sphere in four-dimensional space, the four-dimensional polytopes (which are the four-dimensional versions of the three-dimensional polyhedra), and various sculptures, puzzles, and virtual reality experiences that have come from thinking about these things.
+</div>
+
+<li>
+<b><a href="http://www.math.illinois.edu/~jathreya/">Jayadev
+Athreya</a> (UIUC) </b><br><span class="bigtitle">Density in Apollonian packings</span>
+
+<div class="abstract">
+<b>Abstract:</b>
+We describe how to compute different notions of density in Apollonian circle and sphere packings, and an unexpected connection to the Riemann Hypothesis. This is work that grew out of an IGL project with Jason Hempstead, Kaiyue Hou, Danni Sun, and Joe Vandehey, and also encompasses joint work with Cristian Cobeli and Alexandru Zaharescu.
+</div>
+</ul>
+</div>
+
+<!--
+<div id="application">
+<h3>Student lectures and posters</h3>
+<p>
+Five undergraduates will be given the opportunity to
+  give a 20 minute lecture on their research project, and a poster
+  session will give others the chance to describe their projects.
+  Note that the symposium will not feature group lectures, but only
+  presentations by individuals.  A group of students, however, may
+  choose to collectively submit a poster.
+<p>
+  Limited funding for travel
+  and lodging is available to those presenting a lecture or a poster.
+  In order to be considered for funding for travel/lodging, we request
+  that you first apply for funding through your current institution.
+  For full consideration, in addition to completing the <a
+  href="https://docs.google.com/forms/d/1YWsrtXV-2BDSBphvFbPx52p4li4my2zbbUkQbxOCfqE/viewform?usp=send_form">registration
+  and application form</a>, the faculty reference you list must submit a brief letter in support of your application by email to <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x6b;&#x66;&#x74;&#x75;&#x63;&#x6b;&#x65;&#x72;&#x40;&#x75;&#x69;&#x63;&#x2e;&#x65;&#x64;&#x75;">Kevin Tucker (&#x6b;&#x66;&#x74;&#x75;&#x63;&#x6b;&#x65;&#x72;&#x40;&#x75;&#x69;&#x63;&#x2e;&#x65;&#x64;&#x75;)</a> by September 15.
+<p>
+</div>
+-->
+
+<div id="registration">
+<h3>Attending the symposium</h3>
+Everyone is welcome to attend the symposium.  To help with our
+planning, we ask that attendees complete the <a href="https://docs.google.com/forms/d/1YWsrtXV-2BDSBphvFbPx52p4li4my2zbbUkQbxOCfqE/viewform?usp=send_form">registration form</a>.
+</div>
+
+
+<div id="location">
+<h3>Location</h3>
+All symposium events will take place in the Science and Engineering Offices building (SEO) on UIC's East Campus.  Registration, lunch and coffee will be provided in room 300, while the lectures will take place in room 636.
+<ul>
+<li><a href="http://maps.google.com/maps/ms?msa=0&amp;msid=202725007221552166328.0004a5dba7d74aace6747&amp;ie=UTF8&amp;ll=41.872269,-87.648915&amp;spn=0.009259,0.007693&amp;z=17">Google Maps view of SEO and UIC campus</a> (online, interactive)
+<li><a href="http://www.uic.edu/uic/about/visit/campus-maps.shtml">Campus maps from UIC Facility Information Management</a> (PDF and image downloads)
+</ul>
+</div>
+
+<div id="schedule">
+<h3>Schedule of events</h3>
+<p>
+Plenary lectures are 50 minutes and student lectures 20 minutes;
+breaks of 10 minutes between talks allow for questions and discussion.
+A catered lunch of sandwiches and salads is provided for all symposium
+participants.
+<p>
+<table class="schedule" summary="Schedule of symposium events">
+<tr>
+  <td>8:15 - 8:50am</td>
+  <td><i>Sign-in and coffee in SEO 300</i></td>
+</tr>
+
+<tr>
+  <td colspan=2 class="center"><b>Morning session &mdash; Plenary Lectures &mdash; SEO 636</b></td>
+</tr>
+
+<tr>
+  <td>8:55am</td>
+  <td>Opening remarks</td>
+</tr>
+
+<tr>
+  <td>9:00am</td>
+  <td>Jayadev Athreya (UIUC) &mdash; Density in Apollonian packings</td>
+</tr>
+
+<tr>
+  <td>10:00am</td>
+  <td>Chelsea Walton (Temple University) &mdash; Hamilton's quaternions</td>
+</tr>
+
+<tr>
+  <td>11:00am</td>
+  <td>Henry Segerman (Oklahoma State University) &mdash; How to make sculptures of 4-dimensional things</td>
+</tr>
+
+
+<tr>
+  <td>12:00pm</td>
+  <td><i>Lunch in SEO 300</i></td>
+</tr>
+
+
+<tr>
+  <td colspan=2 class="center"><b>Afternoon Session 1 &mdash; Student lectures &mdash; SEO 636</b></td>
+</tr>
+
+<tr>
+  <td>1:00pm</td>
+  <td>Yao-Rui Yeo (University of Minnesota) &mdash; The Hurwitz Existence Problem</td>
+</tr>
+
+<tr>
+  <td>1:30pm</td>
+  <td>John Spaw (Millikin University) &mdash; Locating Numbers and Sets for Disconnected Graphs</td>
+</tr>
+
+<tr>
+  <td>2:00pm</td>
+  <td>Alex Page (UIUC) &mdash; The Broken Stick Problem in Higher Dimensions:  From a Classic Puzzle to Modern Distance Geometry</td>
+</tr>
+
+<tr>
+  <td>2:30pm</td>
+  <td><i>Coffee break in SEO 300</i></td>
+</tr>
+
+<tr>
+  <td colspan=2 class="center"><b>Afternoon session 2 &mdash; Student
+  lectures and Poster Session &mdash; SEO 636 and SEO 300</b></td>
+</tr>
+
+
+<tr>
+  <td>3:00pm</td>
+  <td>Elena Malloy (Yale University) &mdash; Quasi-synchronization on a fractal network of logistic maps</td>
+</tr>
+
+<tr>
+  <td>3:30pm</td>
+  <td>Ben Lowe  (University of Chicago) &mdash; Configuration Spaces of Hinge Structures and Singularities</td>
+</tr>
+
+<tr>
+  <td>4:00 - 5:00pm</td>
+  <td><i>Poster Session in SEO 300</i></td>
+</tr>
+
+</table>
+</div>
+
+
+<div id="previous">
+<h3>Previous symposia</h3>
+<div class="linkbox">
+<h4><a href="2014/">2014</a></h4>
+<a href="/ums/2014/"><img src="/ums/2014/poster/umsposter2014-thumb.png"></a>
+</div>
+<div class="linkbox">
+<h4><a href="2013/">2013</a></h4>
+<a href="/ums/2013/"><img src="/ums/2013/poster/umsposter2013-thumb.png"></a>
+</div>
+<div class="linkbox">
+<h4><a href="2012/">2012</a></h4>
+<a href="/ums/2012/"><img src="/ums/2012/poster/umsposter2012-thumb.png"></a>
+</div>
+<div class="linkbox">
+<h4><a href="2011/">2011</a></h4>
+<a href="/ums/2011/"><img src="/ums/2011/poster/umsposter2011-thumb.png"></a>
+</div>
+<div class="linkbox">
+<h4><a href="2010/">2010</a></h4>
+<a href="/ums/2010/"><img src="/ums/2010/poster/umsposter2010-thumb.png"></a>
+</div>
+<div class="clear"></div>
+</div>
+
+<div id="contact">
+<h3>Contact</h3>
+For further information, please contact <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x6b;&#x66;&#x74;&#x75;&#x63;&#x6b;&#x65;&#x72;&#x40;&#x75;&#x69;&#x63;&#x2e;&#x65;&#x64;&#x75;">Kevin Tucker (&#x6b;&#x66;&#x74;&#x75;&#x63;&#x6b;&#x65;&#x72;&#x40;&#x75;&#x69;&#x63;&#x2e;&#x65;&#x64;&#x75;)</a>.
+</div>
+
+</body>
+</html>
+
+
+
+
+

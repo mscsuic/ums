@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>UMS @ UIC</title>
+<link rel="stylesheet" type="text/css" href="/ums/css/ums.css">
+<link rel="shortcut icon" href="/ums/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/ums/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="/ums/js/pngfix.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<div class="title">
+<img src="images/umslogo.png" alt="UMS" class="logo">
+<h1 class="noskip">Undergraduate Mathematics Symposium<br><span class="subhead">Saturday, October 13, 2012<br>University of Illinois at Chicago</span></h1>
+Organized by <a href="/~ddumas/">David Dumas</a> and <a href="/~hurder/">Steven Hurder</a>
+</div>
+
+<div id="archive" class="archived-warning">
+This page is about the <b>2012</b> symposium.<p>
+For the latest symposium information see the <a href="/ums/">UMS home page</a>.
+</div>
+
+<div id="about">
+<h3>Symposium poster</h3>
+<a href="poster/umsposter2012.pdf" class="img"><img src="poster/umsposter2012-thumb.png" alt="UMS 2012 Poster (PDF)"></a>
+</div>
+
+<div id="speakers">
+<h3>Plenary lectures</h3>
+<ul class="wide">
+<li>
+<b><a href="http://www.math.uiuc.edu/~nmd/">Nathan Dunfield</a> (UIUC)</b><br>
+<span class="bigtitle">Mathematical truths: experiment, proof, and understanding</span>
+
+<div class="abstract">
+<b>Abstract:</b>
+Experimentation has played an important role in mathematical discovery for centuries.   With the rise of powerful computers, more complex mathematical objects can be studied in this way.   After explaining why "a topologist is someone who can't tell a coffee cup from a doughnut", I will give a concrete example of how experimentation lead (eventually!) to a new result in the mathematical area of topology.   Along the way I will discus different forms of mathematical knowledge, contrasting the results from experiment with logical proofs on the one hand and intuitive understanding on the other.
+</div>
+
+<li>
+<b><a href="http://www.math.uic.edu/~rtakloo/">Ramin Takloo-Bighash</a> (UIC)</b><br>
+<span class="bigtitle">Distribution of orders in number fields</span>
+
+<div class="abstract">
+<b>Abstract:</b>
+ An order, or a number ring, is a subring with identity of the ring of integers of a number field which is a module of maximal rank over the ordinary ring of ingeres. In this talk I will discuss some old problems and recent theorems on how orders are distributed.
+</div>
+
+<li>
+<b><a href="http://www.ripon.edu/academics/faculty/younga/">Andrea Young</a> (Ripon College)</b><br>
+<span class="bigtitle">Discrete Differential Geometry</span>
+
+<div class="abstract">
+<b>Abstract:</b> Discrete differential geometry is a growing field of mathematics that has a wide variety of applications including computer graphics, medical imaging, geometric modeling, and discrete exterior calculus.  In this talk, I will discuss discrete approximations of smooth 2- and 3-dimensional manifolds and describe how one can interpret the curvature of such objects.  I will also discuss some problems that can (and have!) been studied and solved by undergraduates.
+</div>
+
+</ul>
+</div>
+
+<div id="schedule">
+<h3>Schedule of events</h3>
+
+<table class="schedule" summary="Schedule of symposium events">
+<tr>
+  <td>8:15 - 8:50am</td>
+  <td><i>Sign-in and coffee in SEO 300</i></td>
+</tr>
+
+<tr>
+  <td colspan=2 class="center"><b>Morning session &mdash; Plenary Lectures &mdash; Lecture Center F1</b></td>
+</tr>
+
+<tr>
+  <td>8:55am</td>
+  <td>Opening remarks</td>
+</tr>
+
+<tr>
+  <td>9:00am</td>
+  <td>Andrea Young (Ripon) &mdash; Discrete Differential Geometry</td>
+</tr>
+
+<tr>
+  <td>10:00am</td>
+  <td>Ramin Takloo-Bighash (UIC) &mdash; Distribution of orders in number fields</td>
+</tr>
+
+<tr>
+  <td>11:00am</td>
+  <td>Nathan Dunfield (UIUC) &mdash; Mathematical truths: experiment, proof, and understanding</td>
+</tr>
+
+
+<tr>
+  <td>12:00pm</td>
+  <td><i>Lunch in SEO 300</i></td>
+</tr>
+
+
+<tr>
+  <td colspan=2 class="center"><b>Afternoon Session 1 &mdash; Student lectures &mdash; Lecture Center F1</b></td>
+</tr>
+
+<tr>
+  <td>1:00pm</td>
+  <td>Charles Alley (UIC) &mdash; Continued Fractions as Linear Fractional Transformations and Related Results</td>
+</tr>
+
+<tr>
+  <td>1:30pm</td>
+  <td>Jake Marcinek (Caltech) &mdash; Subrings of <b>Z</b><sup>6</sup></td>
+</tr>
+
+<tr>
+  <td>2:00pm</td>
+  <td>Nathaniel Bude (Ripon) &mdash; Hill-Climbing Search for Metrics on Triangulations of <b>S</b><sup>3</sup></td>
+</tr>
+
+<tr>
+  <td>2:30pm</td>
+  <td>Fiacha Heneghan and Ashley Sliva (DePaul) &mdash; Min-max Up-down Permutations</td>
+</tr>
+
+<tr>
+  <td>3:00pm</td>
+  <td><i>Coffee break in SEO 300</i></td>
+</tr>
+
+<tr>
+  <td colspan=2 class="center"><b>Afternoon session 2 &mdash; Student lectures &mdash; Lecture Center F1</b></td>
+</tr>
+
+
+<tr>
+  <td>3:30pm</td>
+  <td>Sangwon Hyun (Michigan) &mdash; Examining the Sample Complexity of the Maximum Likelihood Estimator in Phylogenetic Tree Reconstruction</td>
+</tr>
+
+<tr>
+  <td>4:00pm</td>
+  <td>Brian Freidan and Robert Halliday (UIUC) &mdash; The Sphere in Spacetime</td>
+</tr>
+
+<tr>
+  <td>4:30pm</td>
+  <td>Milica Vesovic (UIC) &mdash; Mathematical Modeling of Biological Systems</td>
+</tr>
+
+</table>
+</div>
+
+<div id="previous">
+<h3>Previous symposia</h3>
+<div class="linkbox">
+<h4><a href="2011/">2011</a></h4>
+<a href="/ums/2011/"><img src="/ums/2011/poster/umsposter2011-thumb.png"></a>
+</div>
+<div class="linkbox">
+<h4><a href="2010/">2010</a></h4>
+<a href="/ums/2010/"><img src="/ums/2010/poster/umsposter2010-thumb.png"></a>
+</div>
+<div class="clear"></div>
+</div>
+
+<div id="contact">
+<h3>Contact</h3>
+For further information, please contact <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x64;&#x64;&#x75;&#x6d;&#x61;&#x73;&#x40;&#x6d;&#x61;&#x74;&#x68;&#x2e;&#x75;&#x69;&#x63;&#x2e;&#x65;&#x64;&#x75;">David Dumas (&#x64;&#x64;&#x75;&#x6d;&#x61;&#x73;&#x40;&#x6d;&#x61;&#x74;&#x68;&#x2e;&#x75;&#x69;&#x63;&#x2e;&#x65;&#x64;&#x75;).</a>  
+</div>
+
+</body>
+</html>
+
+
+
+
+

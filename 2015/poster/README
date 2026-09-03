@@ -1,0 +1,56 @@
+ABOUT THE POSTER
+
+The latest poster PDF should be moved to "umsposter20XX.pdf" in this
+directory, replacing XX with the year.
+
+
+ABOUT THE IMAGES IN THIS DIRECTORY
+
+The poster is converted to two PNG images (truecolor RGB, 8 bpp)
+
+1) umsposter20XX-big.png
+FULL PAGE IMAGE, no cropping or border
+Image resolution 656x1031
+= 62.5dpi if the source PDF is 10.5 x 16.5 inches
+
+Sample command using ImageMagick:
+
+  convert -density 62.5 umsposter20XX.pdf umsposter20XX-big.png
+
+1) umsposter20XX.png
+FULL PAGE IMAGE, no cropping or border
+Image resolution 315x495
+= 30dpi if the source PDF is 10.5 x 16.5 inches
+
+Sample command using ImageMagick:
+
+  convert -density 30 umsposter20XX.pdf umsposter20XX.png
+
+
+2) umsposter20XX-thumb.png
+CROPPED image, removing blue top and bottom border
+Image resolution 144x193
+Before cropping the PDF is converted to a 144x226 image (13.7dpi at
+10.5 x 16.5 inches)
+Then we crop to a 142x191 rectangle centered at coordinates (1,17)
+(Equivalently, we remove a strip of 17 pixels from the top, 18 pixels
+from the bottom, and then one column of pixels from each side)
+A 1-pixel black border is then added, bringing the size to 
+
+Sample command using ImageMagick:
+
+  convert -density 13.7 umsposter20XX.pdf -crop 142x191+1+17 -bordercolor Black -border 1 umsposter20XX-thumb.png
+  
+
+
+ABOUT index.html
+
+It contains hard-coded filenames (by year) so it needs to be updated.
+
+The main point of this index.html is so that one can share
+
+  http://math.uic.edu/ums/poster/
+
+on social media and this will force the thumbnail to be of the poster.
+This page displays a centered image of the poster which is a clickable
+link to the UMS homepage.
