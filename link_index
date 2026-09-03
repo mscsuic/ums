@@ -1,0 +1,16 @@
+if [ -f "$1/index.html" -o -f "$1/index.htm" -o -f "$1/index.php" ]; then
+  echo -n;
+#  echo SKIPPING $1;
+else
+  if [ z"$1" = z.git ]; then
+    exit 0
+  fi
+  if [ -f "$1"/README ]; then
+    echo INDEX ALLOWED $1;
+  else
+    echo "$1"
+    dotdot=$(echo "$1" | tr -d -c '/' | sed 's/\//..\//g')
+    rellink="$dotdot"error/forbidden.html
+    ln -s "$rellink" "$1/index.html"
+  fi
+fi

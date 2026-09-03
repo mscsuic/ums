@@ -1,0 +1,73 @@
+ABOUT THE POSTER
+
+The convention is that the latest poster PDF is "umsposter20XX.pdf" in
+this directory, replacing XX with the year.
+
+
+ABOUT THE IMAGES IN THIS DIRECTORY
+
+The poster needs to be converted to two PNG images (truecolor RGB, 8 bpp).
+
+1) umsposter20XX-big.png
+FULL PAGE IMAGE, no cropping or border
+Image resolution should be 656x1031
+= 62.5dpi if the source PDF is 10.5 x 16.5 inches
+
+HOW TO MAKE THIS FILE:
+
+* Conversion using ImageMagick, which works well if the poster is made
+with inkscape and has no color space data:
+
+  convert -density 62.5 umsposter20XX.pdf umsposter20XX-big.png
+
+If there are aliasing problems (jagged edges), it may be better to first
+make a version at 250dpi and then scale down to 25%.
+
+or
+
+* Conversion using 'pdftoppm', which works well if the poster is made in
+Adobe Illustrator (where color space data tends to cause problems with
+ImageMagick):
+
+  pdftoppm umsposter20XX.pdf umsposter20XX-big -png -rx 62.5 -ry 62.5
+
+
+2) umsposter20XX-thumb.png
+CROPPED image, removing blue top and bottom border
+Image resolution 144x193
+Before cropping the PDF is converted to a 144x226 image (13.7dpi at
+10.5 x 16.5 inches)
+
+Then we crop to a 142x191 rectangle centered at coordinates (1,17)
+(Equivalently, we remove a strip of 17 pixels from the top, 18 pixels
+from the bottom, and then one column of pixels from each side)
+A 1-pixel black border is then added, bringing the size to 
+
+
+HOW TO MAKE THIS FILE:
+
+* Conversion using ImageMagick (generally good for Inkscape-produced PDF):
+
+  convert -density 13.7 umsposter20XX.pdf -crop 142x191+1+17 -bordercolor Black -border 1 umsposter20XX-thumb.png
+
+* Conversion using 'pdftoppm' (generally good for Adobe Illustrator PDF):
+
+  pdftoppm umsposter20XX.pdf umsposter20XX-thumb-precrop -png -rx 13.7 -ry 13.7
+  convert -crop 142x191+1+17 -bordercolor Black -border 1 umsposter20XX-thumb-precrop-1.png umsposter20XX-thumb.png
+
+* Sometimes it is necessary to use a real image editor like GIMP to make
+small corrections (e.g. if text extends slightly into the intended
+border bands on the top and bottom, as happened in 2018).
+
+
+ABOUT index.html
+
+It contains hard-coded filenames (by year) so it needs to be updated.
+
+The main point of this index.html is so that one can share
+
+  http://math.uic.edu/ums/poster/
+
+on social media and this will force the thumbnail to be of the poster.
+This page displays a centered image of the poster which is a clickable
+link to the UMS homepage.

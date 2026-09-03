@@ -1,0 +1,408 @@
+body {
+  background: #fff8eb;
+/* #FFF6E0; */
+  color: #0C2F59;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 6em;
+  font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+  font-size: 16px;
+  line-height: 140%;
+}
+
+/* Headings in SANS */
+h1,h2,h3,h4,h5,h6,.nav,.nav-inline { 
+  font-family: 'Trebuchet MS', 'Lucida Grande', Arial, Sans-Serif;
+}
+
+h1 { margin-left: -8%; margin-bottom: 1em; }
+h2 { margin-left: -6%; margin-bottom: 1em; }
+h3 { margin-left: -4%; margin-bottom: 1em; }
+.noskip { margin-bottom: 0em; }
+h4,h5,h6 { margin-left: -2%; margin-bottom: 0.3em; margin-top: 0em; }
+h1,h2,h3 { font-weight: bold; }
+h3,h4 strong { font-weight: bold; }
+h1 { font-size: 24px; }
+h2 { font-size: 23px; }
+h3 { font-size: 22px; }
+h4 { font-size: 20px; }
+
+h1 {
+  padding-left: 0.5em;
+  padding-bottom: 0.2em;
+}
+
+.subhead {
+  font-size: 80%;
+}
+
+p {
+  clear: left;
+}
+
+/* RULES */
+
+hr {
+  border-left: 0px;
+  border-right: 0px;
+  border-top: 1px solid #0C2F59;
+  border-bottom: 1px solid #0C2F59;
+  color: #0C2F59;
+  height: 4px;
+  width: 60%;
+  margin-top: 1.5em;
+  margin-bottom: 1.2em;  
+}
+
+/* DIVS */
+
+div {
+/*  font-size: 1.1em;*/
+  margin-top: 1em;
+}
+
+div.sbs {
+  float: left;
+}
+
+div.linkbox {
+  float: left;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 1em;
+  margin-right: 1em;
+  text-align: center;
+}
+
+div.clear { clear: both; }
+
+div.abstract { margin-left: 2em; margin-right: 2em; margin-bottom: 2em; }
+
+.nav-inline { 
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: -4%;
+  font-size: 1em;
+}
+
+.nav {
+  position: absolute;
+  font-size: 1em;
+  top: 0.05em;
+  right: 1em;
+  padding: 0.01em;
+  margin: 0em;
+}
+
+div.box { 
+  margin-top: 0em;
+  margin-bottom: 0em;
+  margin-left: 1em;
+}
+
+div.title {
+  margin-left: -4%;
+  margin-bottom: 3em;
+  padding-left: 0em;
+  padding-right: 0em;
+}
+
+div.title h1 {
+ padding-top: 0.3em; 
+}
+
+div.title img { margin-bottom: 2em; }
+
+.flush { 
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.withbody {
+  margin-left: 0%;
+}
+
+.left { 
+  margin-left: -4%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ---------------------------------------*/
+/*                 TABLES                 */
+
+table {
+  font-size: 100%;
+  border-collapse: collapse;
+}
+
+table.center {
+  border: 0;
+}
+
+table.widelist {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.widelist td, table.widelist th {
+  padding: 0.5em;
+}
+
+table.list td, table.list th {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.1em;
+  padding-bottom:0.1em;
+}
+
+table.schedule {
+  border-collapse: collapse;
+  margin-top: 1.5em;
+  margin-left: 2em;
+  margin-right: auto;
+  border-spacing: 0em;
+  border: 1px solid #000000;
+}
+
+table.th {
+  white-space: nowrap;
+}
+
+td.nowrap {
+  white-space: nowrap;
+} 
+
+table.schedule th {
+  text-align: right;
+}
+
+table.schedule th, table.schedule td {
+  padding: 0.5em;
+  border: 1px solid #000000;
+}
+
+table.widelist th, table.list th {
+/*  background: #c9bc89; */
+  font-weight: bold;
+  text-align: right;
+}
+
+td.colhead {
+  font-weight: bold;
+  text-align: left;
+}
+
+td.label {
+  text-align: right;
+}
+
+td.center {
+  text-align: center;
+}
+
+td.bigcolhead {
+  font-weight: bold;
+  font-size: larger;
+  text-align: left;
+}
+
+table.widelist td, table.list td {
+  text-align: left;
+}
+
+tr.break {
+  height: 0.5em;
+}
+
+.hwlink {
+  font-weight: bold;
+  border: 1px solid;
+}
+
+table.doclinks {
+  border: 0;
+}
+
+td.tinylabel {
+  font-size: 75%;
+  /* Trebuchet MS is horizontally condensed, making it good for small labels */
+  font-family:  "Trebuchet MS", "Arial Narrow", "Helvetica", "Calibri", "Arial", sans-serif;
+}
+table.snug {
+	border-collapse: collapse;
+	border: none;
+}
+
+table.snug td,tr {
+	border-collapse: collapse;
+	border: none;
+	padding: 0px;
+	border-spacing: 0px;
+}
+
+/* ---------------------------------------*/
+/*                 LISTS                  */
+
+ol.regform > li { margin-bottom: 0.85em; }
+
+ul.wide > li { margin-bottom: 0.85em; }
+ul.wide > li li { margin-top: 0.2em; }
+
+ul.biglist > li { font-size: 20px; }
+
+/* ---------------------------------------*/
+/*                 IMAGES                 */
+
+img { border: none;
+      vertical-align: middle; }
+
+img.inline { margin: 0.5em; }
+
+img.logo { float: left; margin-right: 1em; }
+
+/* ---------------------------------------*/
+/*        SPECIAL CONTENT TYPES           */
+
+.math, i.mi {
+	font-family: freeserif, "times new roman", serif;
+	white-space: nowrap;
+	font-size: 105%;
+	}
+.math, i.mi { word-spacing: -0.2ex; }
+
+.bigtitle {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.small-caption {
+  text-align: center;
+  font-size: 90%;
+}
+
+.caption {
+  font-size: 90%;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.deprecated-content {
+  font-style: italic;
+}
+
+.new-content {
+  font-style: italic;
+  color: red;
+}
+
+.urgent {
+  font-weight: bold;
+  font-size: 110%;
+  color: red;
+}
+
+.archived-warning {
+  color: red;
+  font-size: 115%;
+}
+
+div.error {
+  font-size: 110%;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  padding: 1em;
+  border: solid 2px red;
+}
+
+span.error {
+  font-style: italic;
+}
+
+.error {
+  color: red;
+}
+
+.important {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+div.important-link {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.book-title {
+  font-style: italic;
+}
+
+/* ---------------------------------------*/
+/*                LINKS                   */
+
+a { text-decoration: none; }
+
+a:link {
+  color: #1b69c7;
+}
+
+a:visited {
+  color: #1b69c7;
+}
+
+a:hover {
+  color: #1b69c7;
+}
+
+a:active {
+  color: #F20505;
+}
+
+a.img { 
+background: transparent !important;
+border-color: transparent !important;
+border-style: none !important;
+margin: 0px !important;
+}
+
+a.img:hover { 
+background: transparent !important;
+border-color: transparent !important;
+border-style: none !important;
+}
+
+a.img:active { 
+background: transparent !important;
+border-color: transparent !important;
+border-width: 0 !important;
+}
+
+a.limg {
+border-width: 1px;
+border-style: dashed;
+padding-right: 5px;
+}
+
+/* forms */
+
+input, textarea {
+  font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+  margin: 0.2em;
+  padding: 2px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+input.submit {
+  padding: 0.4em;
+}
+
+div.submit {
+  margin-top: 2em;
+}
