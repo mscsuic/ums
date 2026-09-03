@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>UMS @ UIC</title>
+<link rel="stylesheet" type="text/css" href="/ums/css/ums.min.css">
+<link rel="stylesheet" type="text/css" href="/ums/css/beautons.min.css">
+<link rel="shortcut icon" href="/ums/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/ums/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+
+<div class="title">
+<img src="images/umslogo.png" alt="UMS" class="logo">
+<h1 class="noskip">Undergraduate Mathematics Symposium<br><span class="subhead">Saturday, November 7, 2020<br>University of Illinois at Chicago</span></h1>
+Organized by David Dumas, Julius Ross, Christof Sparber, and Kevin Tucker
+</div>
+
+<div class="clear"></div>
+
+<div id="about">
+<h3>About the symposium</h3>
+      
+The Undergraduate Mathematics Symposium at UIC is an annual one-day
+meeting focusing on undergraduate mathematical research and
+education. The meeting features invited lectures by mathematical
+researchers and contributed lectures and posters by undergraduates on
+their own research projects.
+
+<p>
+<span style="margin-left:1em; margin-top:1em;">
+<a href="poster/umsposter2020.pdf" class="img"><img src="poster/umsposter2020-thumb.png" alt="UMS 2020 Poster (PDF)"></a>
+</span>
+<p>
+<a href="poster/umsposter2020.pdf">Download the symposium poster</a>
+      
+</div>
+
+<div id="speakers">
+<h3>Plenary lectures</h3>
+<ul>
+	<li style="margin-bottom:1em;"><span class="bigtitle"><a href="https://bsantoro.ccny.cuny.edu/">Bianca Santoro (CCNY/CUNY)</a></span>
+	  <br><span class="bigtitle">
+	      The math behind soap films</span>  <div class="abstract">
+	    <b>Abstract:</b>
+	    What happens when you dip a curved wire into a soap solution?
+	      The resulting soap film has the least possible area among all surfaces that bound the wire. We will try to understand the math behind those soap films, and hopefully inspire you to play with soap bubbles at home as well! If you happen to have a few spare paper clips and some dish liquid, you could start your experiments near the end of the talk.
+	      <p><b><a href="https://youtu.be/OZxBtSTl00Q">Lecture video</a></b></p>
+	    </div>
+
+	    
+	    	<li><span class="bigtitle"><a href="http://www-personal.umich.edu/~itobasco/">Ian Tobasco (UIC)</a></span>
+      	  <br><span class="bigtitle">
+	     Wrinkles and Crumples and Origami, oh my!</span>  <div class="abstract">
+	  <b>Abstract:</b>
+	  Crumple a sheet of paper and a seemingly unpredictable network of creases and folds appears. This talk will discuss the mathematical analysis of such crumpling patterns, their more orderly cousin origami, as well as other diffuse versions of crumpling known as "wrinkling patterns". Along the way, we will learn the basics of elasticity theory, and see how tools from geometry, analysis, and mechanics can be used to predict and categorize the zoo of patterns exhibited by thin elastic sheets.
+  </div>
+
+	    
+    
+
+<div id="schedule">
+<h3>Schedule</h3>
+      The 2020 symposium was held entirely online.
+
+      <p>&nbsp; All times are listed in CST (<a href="https://www.timeanddate.com/worldclock/usa/chicago">Chicago Time</a>)</p>
+      <table style="width: 631px;" class="schedule">
+	<tbody>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>8.30am</p>
+	    </td>
+	    <td style="width: 499px;">
+	      <p>gather.town opens (optional)</p>
+	    </td>
+	  </tr>
+
+	  	  <tr>
+	    <td style="width: 615px;" colspan="2">
+	      <p style="text-align: center;">Plenary Talk - Zoom</p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>9.00-10.00</p>
+	    </td>
+	    <td style="width: 499px;">
+			  <p>Ian Tobasco: Wrinkles and Crumples and Origami, oh my!</p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 615px;" colspan="2">
+	      <p style="text-align: center;">Morning Lightning Talks - Zoom</p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>10:30-10:45</p>
+	    </td>
+	    <td style="width: 499px;">
+	      <p>Alan Peng, Preston Cranford, and Vijay Srinivasan: Equality in the Eisenbud--Goto Conjecture for Certain Toric Varieties</p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>10:50-11:05</p>
+	    </td>
+	    <td style="width: 499px;">
+	      <p>Katie Gravel and Elisabeth Bullock: Higher Secondary Polytopes for Two-Dimensional Zonotopes</p>
+              <p><a href="https://youtu.be/0WhMYF8koWc">Lecture video</a></p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>11:10-11:25</p>
+	    </td>
+	    <td style="width: 499px;">
+			  <p>Anne Larsen: Strongly Obtuse Rational Lattice Triangles</p>
+			  <p><a href="https://youtu.be/T975uVQN0K0">Lecture video</a></p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>11:30-11:45</p>
+	    </td>
+	    <td style="width: 499px;">
+			  <p>Reed Phillips: Counting Optimal Strategies in the Penney-Ante Game</p>
+			  <p><a href="https://youtu.be/POLxiKZCMnQ">Lecture video</a></p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 615px;" colspan="2">
+	      <p style="text-align: center;">&nbsp;Plenary Talk - Zoom</p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>1:00-2:00</p>
+	    </td>
+	    <td style="width: 499px;">
+			  <p>Bianca Santoro: The math behind soap films</p>
+			  <p><a href="https://youtu.be/OZxBtSTl00Q">Lecture video</a></p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 615px;" colspan="2">
+	      <p style="text-align: center;">Afternoon Lightning Talks - Zoom</p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>2.30-2.45</p>
+	    </td>
+	    <td style="width: 499px;">
+	      <p>Andrew Tawfeek: Enumeration of Discrete Vector Fields on Simplicial Complexes</p>
+              <p><a href="https://youtu.be/K_yEkGgYhCA">Lecture video</a></p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>2.50-3.05</p>
+	    </td>
+	    <td style="width: 499px;">
+			  <p>Huda Ahmed: Filtering Grassmannian Cohomology via k-Schur Functions</p>
+			  <p><a href="https://youtu.be/aCQ-fRw7g_k">Lecture video</a></p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>3.10-3.25</p>
+	    </td>
+	    <td style="width: 499px;">
+			  <p>Anushka Narayanan: Effects of Mars' Chaotic Obliquity on Ice Cover: A Budyko Model Approach</p>
+			  <p><a href="https://youtu.be/Z5Moz7o--ss">Lecture video</a></p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 116px;">
+	      <p>3.30-3.45</p>
+	    </td>
+	    <td style="width: 499px;">
+	      <p>Jackson Zariski, Aidan Mager, and Laurel Safranek: Random Inelastic Billiards and Sticky Particle Dynamics</p>
+              <p><a href="https://youtu.be/DGdhoceDWJw">Lecture video</a></p>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td style="width: 615px;" colspan="2">
+	      <p style="text-align: center;">4:00pm-5:00pm: Poster Session - gather.town</p>
+	    </td>
+	  </tr>
+	</tbody>
+      </table>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+
+
+</div>
+<br>    
+<div id="previous">
+<h3>Previous symposia</h3>
+<div class="linkbox">
+<h4><a href="/ums/2019/">2019</a></h4>
+<a href="/ums/2019/"><img src="/ums/2019/poster/umsposter2019-thumb.png" alt="UMS 2019"></a>
+</div>
+<div class="linkbox">
+<h4><a href="/ums/2018/">2018</a></h4>
+<a href="/ums/2018/"><img src="/ums/2018/poster/umsposter2018-thumb.png" alt="UMS 2018"></a>
+</div>  
+<div class="linkbox">
+<h4><a href="/ums/2017/">2017</a></h4>
+<a href="/ums/2017/"><img src="/ums/2017/poster/umsposter2017-thumb.png" alt="UMS 2017"></a>
+</div>  
+<div class="linkbox">
+<h4><a href="/ums/2016/">2016</a></h4>
+<a href="/ums/2016/"><img src="/ums/2016/poster/umsposter2016-thumb.png" alt="UMS 2016"></a>
+</div>  
+<div class="linkbox">
+<h4><a href="/ums/2015/">2015</a></h4>
+<a href="/ums/2015/"><img src="/ums/2015/poster/umsposter2015-thumb.png" alt="UMS 2015"></a>
+</div>  
+<div class="linkbox">
+<h4><a href="/ums/2014/">2014</a></h4>
+<a href="/ums/2014/"><img src="/ums/2014/poster/umsposter2014-thumb.png" alt="UMS 2014"></a>
+</div>
+<div class="linkbox">
+<h4><a href="/ums/2013/">2013</a></h4>
+<a href="/ums/2013/"><img src="/ums/2013/poster/umsposter2013-thumb.png" alt="UMS 2013"></a>
+</div>
+<div class="linkbox">
+<h4><a href="/ums/2012/">2012</a></h4>
+<a href="/ums/2012/"><img src="/ums/2012/poster/umsposter2012-thumb.png" alt="UMS 2012"></a>
+</div>
+<div class="linkbox">
+<h4><a href="/ums/2011/">2011</a></h4>
+<a href="/ums/2011/"><img src="/ums/2011/poster/umsposter2011-thumb.png" alt="UMS 2011"></a>
+</div>
+<div class="linkbox">
+<h4><a href="/ums/2010/">2010</a></h4>
+<a href="/ums/2010/"><img src="/ums/2010/poster/umsposter2010-thumb.png" alt="UMS 2010"></a>
+</div>
+<div class="clear"></div>
+</div>
+
+		  <div id="diversity">
+		    <h3>Diversity statement</h3>
+
+		    <p>The UMS values diversity and inclusion. Regardless of age, disability, ethnicity, race, gender, gender identity, sexual orientation, socioeconomic status, geographic background, religion, political ideology, language, or culture, we expect all members of this conference to contribute to a respectful, welcoming, and inclusive environment for every other participant.  Be mindful of different cultural and linguistic backgrounds, as well as different political ideologies and religious beliefs.
+		    <p>Any instance of a participant not adhering to this standard should be reported to one of the organizers.   Those who do not adhere will be removed from the symposium without the possibility of appeal.
+		    <p>Use good judgment when composing your written responses. Swearing and profanity is not allowed. Also consider that slang terms can be misunderstood or misinterpreted.
+		    <p>Be careful using all capital letters when composing your written responses. This can be considered shouting on the Internet and is regarded as impolite or aggressive. It can also be stressful on the eye when trying to read your message.
+		    <p>Be respectful of others views and opinions.
+		    <p>Be careful when using acronyms. If you use an acronym it is best to spell out its meaning first, then put the acronym in parentheses afterward, for example: Frequently Asked Questions (FAQs). After that you can use the acronym freely throughout your message.
+</div>
+		    
+		  
+<div id="acknowledgment">
+<h3>Acknowledgment</h3>
+UMS is supported in part by the following grants from the National Science Foundation: NSF&nbsp;RTG&nbsp;1246844, DMS&nbsp;1348092&nbsp;CAREER.
+</div>
+
+<div id="contact">
+<h3>Contact</h3>
+<a href="mailto:juliusro@uic.edu">Julius Ross (juliusro@uic.edu)</a>
+</div>
+
+</body>
+</html>
+
