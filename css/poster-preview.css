@@ -1,0 +1,21 @@
+/* Show the approved artwork without the white paper margin in its preview.
+   The 288 x 386 source has an artwork interior at (29, 12), 230 x 362.
+   Scale that region uniformly to 144px wide; leave the PDF and PNG untouched. */
+.poster-thumbnail {
+  display: inline-block;
+  position: relative;
+  width: 144px;
+  height: 226.643478px;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+.poster-thumbnail > img {
+  display: block;
+  position: absolute;
+  width: 180.313043px;
+  height: auto;
+  max-width: none;
+  left: -18.156522px;
+  top: -7.513043px;
+}
